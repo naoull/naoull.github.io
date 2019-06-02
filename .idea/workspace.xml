@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14a5f379-5b94-43c3-a1ba-b2c29ab50a1a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/floating-header.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/floating-header.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/site-nav.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/site-nav.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_posts/2017-07-27-managing-users.html" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017-07-27-managing-users.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2017-07-27-using-tags.html" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2017-07-27-using-tags.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -101,8 +96,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2017-07-27-the-editor.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            <state relative-caret-position="714">
+              <caret line="30" column="218" selection-start-line="30" selection-start-column="218" selection-end-line="30" selection-end-column="218" />
             </state>
           </provider>
         </entry>
@@ -117,6 +112,7 @@
       <find>using-tags</find>
       <find>post-card-image</find>
       <find>post</find>
+      <find>team.j</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -221,15 +217,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1559472057029</updated>
-      <workItem from="1559472058214" duration="2780000" />
+      <workItem from="1559472058214" duration="3255000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2780000" />
+    <option name="totallyTimeSpent" value="3255000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="966" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="UI Designer" />
@@ -390,8 +387,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-07-27-the-editor.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        <state relative-caret-position="714">
+          <caret line="30" column="218" selection-start-line="30" selection-start-column="218" selection-end-line="30" selection-end-column="218" />
         </state>
       </provider>
     </entry>
